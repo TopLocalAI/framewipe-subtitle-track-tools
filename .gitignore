@@ -1,0 +1,12 @@
+# Generated test media and outputs (do not commit video fixtures)
+test/fixtures/
+test/output/
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.sup
+
+# OS files
+.DS_Store
+Thumbs.db
